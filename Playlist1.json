@@ -1,0 +1,2744 @@
+{
+  "playlists": [
+    {
+      "name": "Evyolu",
+      "lastModifiedDate": "2024-01-10",
+      "items": [
+        {
+          "track": {
+            "trackName": "Saat 03.00 - versyon 2",
+            "artistName": "Bengü",
+            "albumName": "Dört Dörtlük",
+            "trackUri": "spotify:track:42JgMM0aGQ78KmTGD7nkiY"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2024-01-10"
+        },
+        {
+          "track": {
+            "trackName": "Feveran",
+            "artistName": "Bengü",
+            "albumName": "İkinci Hal",
+            "trackUri": "spotify:track:2AgiSjj47CtcPouPxBaxHB"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2024-01-10"
+        },
+        {
+          "track": {
+            "trackName": "Melekler İmza Topluyor",
+            "artistName": "Alişan",
+            "albumName": "Melekler İmza Topluyor",
+            "trackUri": "spotify:track:5w0BydRVtCsmOTwbS6Tfri"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2024-01-10"
+        },
+        {
+          "track": {
+            "trackName": "Haberin Olsun",
+            "artistName": "Bengü",
+            "albumName": "Anlatacaklarım Var",
+            "trackUri": "spotify:track:7nBmj90Ck9LAQc1wfPDCNj"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2024-01-10"
+        },
+        {
+          "track": {
+            "trackName": "Altın Çağ",
+            "artistName": "Bengü",
+            "albumName": "Altın Çağ",
+            "trackUri": "spotify:track:79PsxuBYZXx5KySuE3t0mZ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2024-01-10"
+        },
+        {
+          "track": {
+            "trackName": "Taş - Hakan Kabil Remix",
+            "artistName": "Gökhan Türkmen",
+            "albumName": "Taş",
+            "trackUri": "spotify:track:2MEnXpYVOvXujQ5y2d9sQ2"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2024-01-10"
+        },
+        {
+          "track": {
+            "trackName": "Yorum Yok",
+            "artistName": "Erdem Kınay",
+            "albumName": "Proje",
+            "trackUri": "spotify:track:0Lk11JlxtMtJ6A6OYep8uu"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2024-01-10"
+        },
+        {
+          "track": {
+            "trackName": "Arada Sırada - Dance Remix",
+            "artistName": "Ajda Pekkan",
+            "albumName": "Farkın Bu",
+            "trackUri": "spotify:track:5N6TbAsR8nGrfzBj8lLd3m"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2024-01-10"
+        },
+        {
+          "track": {
+            "trackName": "Olacak Olacak",
+            "artistName": "Demet Akalın",
+            "albumName": "Zirve 2010",
+            "trackUri": "spotify:track:4uCkjEtQknbnKdD3FoT2GV"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2024-01-10"
+        },
+        {
+          "track": {
+            "trackName": "Olabilir",
+            "artistName": "Gökhan Türkmen",
+            "albumName": "Sessiz",
+            "trackUri": "spotify:track:37SFX5jbpu1TH1bQZ2qoju"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2024-01-10"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Keko",
+      "lastModifiedDate": "2022-07-03",
+      "items": [
+        {
+          "track": {
+            "trackName": "Lütfen",
+            "artistName": "cakal",
+            "albumName": "Lütfen",
+            "trackUri": "spotify:track:0Dq0YIwYRQ75rvrao5OwKn"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-17"
+        },
+        {
+          "track": {
+            "trackName": "Al Sevgilim",
+            "artistName": "Semicenk",
+            "albumName": "Al Sevgilim",
+            "trackUri": "spotify:track:0UguFn9xs4WQshHabcxUxH"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-18"
+        },
+        {
+          "track": {
+            "trackName": "Bıktım",
+            "artistName": "Amo988",
+            "albumName": "Bıktım",
+            "trackUri": "spotify:track:59q9g9vCuaruzSuuh0WYcn"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-18"
+        },
+        {
+          "track": {
+            "trackName": "Yalancı",
+            "artistName": "Amo988",
+            "albumName": "Yalancı",
+            "trackUri": "spotify:track:1rwPC9iev594urmgqDhnub"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-18"
+        },
+        {
+          "track": {
+            "trackName": "İmdat",
+            "artistName": "cakal",
+            "albumName": "İmdat",
+            "trackUri": "spotify:track:123hB20IVD2yw1NMIgrqb3"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-21"
+        },
+        {
+          "track": {
+            "trackName": "Riv Riv Riv",
+            "artistName": "cakal",
+            "albumName": "Riv Riv Riv",
+            "trackUri": "spotify:track:3HEv9gY3n9Fj2H5E2IoOKF"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-27"
+        },
+        {
+          "track": {
+            "trackName": "Anla",
+            "artistName": "Diyar Pala",
+            "albumName": "Yeni Bir Flow",
+            "trackUri": "spotify:track:5SFBaOi2ELB2P5tFzmcD73"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-27"
+        },
+        {
+          "track": {
+            "trackName": "Üzerime Kalır",
+            "artistName": "Kubilay Karça",
+            "albumName": "Duygu Terörü",
+            "trackUri": "spotify:track:0IaaZM7vpHUjJFe8a3GMmP"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-27"
+        },
+        {
+          "track": {
+            "trackName": "Mahvettim",
+            "artistName": "cakal",
+            "albumName": "Mahvettim",
+            "trackUri": "spotify:track:1ji6PoTBfVXqycvsXdgZgp"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-27"
+        },
+        {
+          "track": {
+            "trackName": "Benimle Gel",
+            "artistName": "Reckol",
+            "albumName": "Benimle Gel",
+            "trackUri": "spotify:track:6TQj22qKkIAd9cuBiFlvKf"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-01"
+        },
+        {
+          "track": {
+            "trackName": "CINDY",
+            "artistName": "UZI",
+            "albumName": "CINDY",
+            "trackUri": "spotify:track:2MvIexkUblP1QdpBzKot3N"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-01"
+        },
+        {
+          "track": {
+            "trackName": "Yallah",
+            "artistName": "Montiego",
+            "albumName": "Yallah",
+            "trackUri": "spotify:track:7zxHknEJ9gfaL8Ln6UqYUX"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-01"
+        },
+        {
+          "track": {
+            "trackName": "Affettim",
+            "artistName": "Sefo",
+            "albumName": "Affettim",
+            "trackUri": "spotify:track:3lSuzS3jEkys1ZXw4tAcRR"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-01"
+        },
+        {
+          "track": {
+            "trackName": "10 NUMARA",
+            "artistName": "Lvbel C5",
+            "albumName": "10 NUMARA",
+            "trackUri": "spotify:track:6GDpxEOvaXS0nbqSrFtDAQ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-01"
+        },
+        {
+          "track": {
+            "trackName": "Üzerime Kalır - Slowed & Reverbed Version",
+            "artistName": "Kubilay Karça",
+            "albumName": "Duygu Terörü",
+            "trackUri": "spotify:track:6IvFHlT1BYcM7TmJSgwbVe"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-01"
+        },
+        {
+          "track": {
+            "trackName": "Leylim Yar",
+            "artistName": "Canbay & Wolker",
+            "albumName": "Leylim Yar",
+            "trackUri": "spotify:track:26uWcQnnhCXzkjM7OqVFlj"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-01"
+        },
+        {
+          "track": {
+            "trackName": "Yarabandı",
+            "artistName": "Velet",
+            "albumName": "Yarabandı",
+            "trackUri": "spotify:track:5xgrIBfMamViNXPaNYSDZR"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-01"
+        },
+        {
+          "track": {
+            "trackName": "Trankobuskas - Remix",
+            "artistName": "Reckol",
+            "albumName": "Trankobuskas",
+            "trackUri": "spotify:track:3Zy6uq4X0w6O8UMwJbzv9o"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-05-01"
+        },
+        {
+          "track": {
+            "trackName": "Krvn",
+            "artistName": "UZI",
+            "albumName": "Kan",
+            "trackUri": "spotify:track:4a1WLOoydq7u011UG9jjC9"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-07-03"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "5. Çalma Listem",
+      "lastModifiedDate": "2022-04-16",
+      "items": [
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Relaxation cnm",
+      "lastModifiedDate": "2022-04-11",
+      "items": [
+        {
+          "track": {
+            "trackName": "Canzonetta Sull' aria",
+            "artistName": "Wolfgang Amadeus Mozart",
+            "albumName": "Mozart Winter Nights",
+            "trackUri": "spotify:track:2MV88EDisvbaijQfESIYdW"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Watermark",
+            "artistName": "Enya",
+            "albumName": "Themes From \"Calmi Cuori Appassionati\"",
+            "trackUri": "spotify:track:4vOQ55pOMyE6bQJJzm3kei"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Mellomaniac - Chillout Mix",
+            "artistName": "DJ Shah",
+            "albumName": "The Ultimate Chillout Collection",
+            "trackUri": "spotify:track:7gEky4JRrXUQdImEldIUlT"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Weightless",
+            "artistName": "Marconi Union",
+            "albumName": "The Ambient Zone Just Music Cafe Vol 4",
+            "trackUri": "spotify:track:6kkwzB6hXLIONkEk9JciA6"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Electra",
+            "artistName": "Airstream",
+            "albumName": "Cancun Lounge - Chillout In Paradise",
+            "trackUri": "spotify:track:79FkoVJssAqYH9wMMjqAly"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Strawberry Swing",
+            "artistName": "Coldplay",
+            "albumName": "Viva La Vida or Death and All His Friends",
+            "trackUri": "spotify:track:2dphvmoLEXdk8hOYxmHlI3"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Please Don't Go",
+            "artistName": "Barcelona",
+            "albumName": "Absolutes",
+            "trackUri": "spotify:track:0lRnbYaPtv0A5OezVahO8e"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Pure Shores",
+            "artistName": "All Saints",
+            "albumName": "Saints & Sinners",
+            "trackUri": "spotify:track:6ZLGthToczpvnL5Eoy6yrY"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "We Can Fly",
+            "artistName": "Rue Du Soleil",
+            "albumName": "Café del Mar Music - 2 Decades (1994 - 2014)",
+            "trackUri": "spotify:track:2q7AEvIwBCaVOa1blpPJyt"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Someone Like You",
+            "artistName": "Adele",
+            "albumName": "21",
+            "trackUri": "spotify:track:3bNv3VuUOKgrf5hu3YcuRo"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "bombok şeyler",
+      "lastModifiedDate": "2022-03-19",
+      "items": [
+        {
+          "track": {
+            "trackName": "Natural",
+            "artistName": "Imagine Dragons",
+            "albumName": "Origins",
+            "trackUri": "spotify:track:2FY7b99s15jUprqC0M5NCT"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "LINK UP",
+            "artistName": "Ezhel",
+            "albumName": "LINK UP",
+            "trackUri": "spotify:track:2uQkyr7uKiKueYiFvbkTjM"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Alors On Danse - DubDogz Remix",
+            "artistName": "Stromae",
+            "albumName": "Alors On Danse",
+            "trackUri": "spotify:track:19eIZmuXlBmLTha1lPHef7"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "All the Things",
+            "artistName": "Gaullin",
+            "albumName": "All the Things",
+            "trackUri": "spotify:track:5QIKZWOHDPbGh5EpSqCXMG"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Toca Toca - Radio Edit",
+            "artistName": "Fly Project",
+            "albumName": "Toca Toca",
+            "trackUri": "spotify:track:4hc0VETiFO91s9yiXvgaUp"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Little Dark Age",
+            "artistName": "MGMT",
+            "albumName": "Little Dark Age",
+            "trackUri": "spotify:track:2Y0iGXY6m6immVb2ktbseM"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Side To Side",
+            "artistName": "Ariana Grande",
+            "albumName": "Dangerous Woman",
+            "trackUri": "spotify:track:1pKeFVVUOPjFsOABub0OaV"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Whoopty",
+            "artistName": "CJ",
+            "albumName": "Whoopty",
+            "trackUri": "spotify:track:5vGLcdRuSbUhD8ScwsGSdA"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Look What You Made Me Do",
+            "artistName": "Taylor Swift",
+            "albumName": "reputation",
+            "trackUri": "spotify:track:1P17dC1amhFzptugyAO7Il"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Astronaut In The Ocean",
+            "artistName": "Masked Wolf",
+            "albumName": "Astronaut In The Ocean",
+            "trackUri": "spotify:track:0jdso14vaFnpRazMLEZovF"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Love The Way You Lie (Part II) - Pt. 2",
+            "artistName": "Rihanna",
+            "albumName": "Loud",
+            "trackUri": "spotify:track:6M6lsQB4OhqL41eld29PeC"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Pound The Alarm",
+            "artistName": "Nicki Minaj",
+            "albumName": "Pink Friday ... Roman Reloaded",
+            "trackUri": "spotify:track:5kcE7pp02ezLZaUbbMv3Iq"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Pussy Talk",
+            "artistName": "City Girls",
+            "albumName": "City On Lock",
+            "trackUri": "spotify:track:5EzL7hGT9g2Tvqsy158Lu9"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Why'd You Only Call Me When You're High?",
+            "artistName": "Arctic Monkeys",
+            "albumName": "AM",
+            "trackUri": "spotify:track:086myS9r57YsLbJpU0TgK9"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+            "artistName": "Scott Storch",
+            "albumName": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+            "trackUri": "spotify:track:7FX4EvQht57zUc2P313cEZ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Dip (feat. Nicki Minaj)",
+            "artistName": "Tyga",
+            "albumName": "Dip (feat. Nicki Minaj)",
+            "trackUri": "spotify:track:4hXDobvUaXyDFLnmecoY0z"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Deep End",
+            "artistName": "Fousheé",
+            "albumName": "Deep End",
+            "trackUri": "spotify:track:6HlE9t71z9DjGi7KqSyEpA"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "I Am (feat. Flo Milli)",
+            "artistName": "Baby Tate",
+            "albumName": "After The Rain",
+            "trackUri": "spotify:track:4E7ZbuJH3NddjnMWLstkRq"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Streets",
+            "artistName": "Doja Cat",
+            "albumName": "Hot Pink",
+            "trackUri": "spotify:track:60ynsPSSKe6O3sfwRnIBRf"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Say So",
+            "artistName": "Doja Cat",
+            "albumName": "Hot Pink",
+            "trackUri": "spotify:track:3Dv1eDb0MEgF93GpLXlucZ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Pon de Replay",
+            "artistName": "Ed Marquis",
+            "albumName": "Pon de Replay",
+            "trackUri": "spotify:track:3DsjHcLYMExprXJECT4QQP"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Around The World",
+            "artistName": "MOUNT",
+            "albumName": "Around The World",
+            "trackUri": "spotify:track:09uAvEbzFS1Yu9cZn8K2LL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Levi High (feat. DaBaby)",
+            "artistName": "DaniLeigh",
+            "albumName": "Levi High (feat. DaBaby)",
+            "trackUri": "spotify:track:5Pj5LI8U5UfaGEEBsyr18N"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Shadow",
+            "artistName": "Triplo Max",
+            "albumName": "Shadow",
+            "trackUri": "spotify:track:5WN0mm9gAHPPleKGQah3d0"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Really Really",
+            "artistName": "Kevin Gates",
+            "albumName": "Islah",
+            "trackUri": "spotify:track:10I3CmmwT0BkOVhduDy53o"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Gangsta Gangsta (feat. Baby Eazy-E)",
+            "artistName": "Dr. Fresch",
+            "albumName": "Westcoast G-House Compilation",
+            "trackUri": "spotify:track:5w6rgrtYFhC6NkUknX1exC"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Cherry Wine - Live",
+            "artistName": "Hozier",
+            "albumName": "Hozier",
+            "trackUri": "spotify:track:4Q66chx9WzqWcLItXoZ5r4"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Crowded Room (feat. 6LACK)",
+            "artistName": "Selena Gomez",
+            "albumName": "Rare",
+            "trackUri": "spotify:track:2C0hTkdEoikhKzDCJl32QZ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Suicidal Thoughts",
+            "artistName": "Josh A",
+            "albumName": "Better off Dead",
+            "trackUri": "spotify:track:56TOfxnRzSRbFRw8J6C4IT"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Baby Did a Bad Bad Thing",
+            "artistName": "Queen Kwong",
+            "albumName": "Bad Lieutenant",
+            "trackUri": "spotify:track:39U2XMkDb1pbApWUyb0UMf"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Let Me Down Slowly",
+            "artistName": "Alec Benjamin",
+            "albumName": "Narrated For You",
+            "trackUri": "spotify:track:2qxmye6gAegTMjLKEBoR3d"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Fake ID",
+            "artistName": "Riton",
+            "albumName": "Foreign Ororo (Special Edition)",
+            "trackUri": "spotify:track:4qq73N1TKocRaYGQS23b9u"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Fake ID",
+            "artistName": "Riton",
+            "albumName": "Fake ID",
+            "trackUri": "spotify:track:6nmqkfCABUKJ3NawfwyPMm"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Take You Dancing",
+            "artistName": "Jason Derulo",
+            "albumName": "Take You Dancing",
+            "trackUri": "spotify:track:59qrUpoplZxbIZxk6X0Bm3"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "The Real Slim Shady",
+            "artistName": "Eminem",
+            "albumName": "The Marshall Mathers LP",
+            "trackUri": "spotify:track:3yfqSUWxFvZELEM4PmlwIR"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "The Realness (feat. Eric Kupper)",
+            "artistName": "RuPaul",
+            "albumName": "Realness",
+            "trackUri": "spotify:track:1oSUTFfnEwftOTRxpLKWOY"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "My Head & My Heart",
+            "artistName": "Ava Max",
+            "albumName": "Heaven & Hell",
+            "trackUri": "spotify:track:1KixkQVDUHggZMU9dUobgm"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Kiss Me More (feat. SZA)",
+            "artistName": "Doja Cat",
+            "albumName": "Kiss Me More (feat. SZA)",
+            "trackUri": "spotify:track:748mdHapucXQri7IAO8yFK"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Sexy Bitch (feat. Akon)",
+            "artistName": "David Guetta",
+            "albumName": "One More Love",
+            "trackUri": "spotify:track:127uq83uGFapbddqiMUKky"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Titanium (feat. Sia)",
+            "artistName": "David Guetta",
+            "albumName": "Nothing but the Beat",
+            "trackUri": "spotify:track:0TDLuuLlV54CkRRUOahJb4"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Cristal & МОЁТ",
+            "artistName": "MORGENSHTERN",
+            "albumName": "Cristal & МОЁТ",
+            "trackUri": "spotify:track:4KfmruShP5zOi9hYjM76e6"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Kings & Queens",
+            "artistName": "Ava Max",
+            "albumName": "Heaven & Hell",
+            "trackUri": "spotify:track:7a53HqqArd4b9NF4XAmlbI"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Kamelia",
+            "artistName": "Akcent",
+            "albumName": "Kamelia",
+            "trackUri": "spotify:track:07SfwAQASpyaxumZxa6eof"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "My Head & My Heart - Jonas Blue Remix",
+            "artistName": "Ava Max",
+            "albumName": "My Head & My Heart",
+            "trackUri": "spotify:track:7x74XLYJqptDCmY4y3FaVh"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Swalla (feat. Nicki Minaj & Ty Dolla $ign) - Wideboys Remix",
+            "artistName": "Jason Derulo",
+            "albumName": "Swalla (feat. Nicki Minaj & Ty Dolla $ign)",
+            "trackUri": "spotify:track:1DPrKU9EvePcDg7v4JLmGd"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Lean On - CRNKN Remix",
+            "artistName": "Major Lazer",
+            "albumName": "Lean On",
+            "trackUri": "spotify:track:7A6lWSldnaz6vxvLFMU9tX"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Club Can't Handle Me (feat. David Guetta)",
+            "artistName": "Flo Rida",
+            "albumName": "Only One Flo (Part 1)",
+            "trackUri": "spotify:track:6ebkx7Q5tTxrCxKq4GYj0Y"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "That's My Name",
+            "artistName": "Akcent",
+            "albumName": "Supervara 2009",
+            "trackUri": "spotify:track:0Ga0hrYUKENOSY2kfLUes1"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Believer",
+            "artistName": "Imagine Dragons",
+            "albumName": "Evolve",
+            "trackUri": "spotify:track:0pqnGHJpmpxLKifKRmU6WP"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Commitment Issues",
+            "artistName": "Central Cee",
+            "albumName": "Commitment Issues",
+            "trackUri": "spotify:track:5w3CtwPT5e0k8zg2LyjvNN"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Only Just Begun",
+            "artistName": "Manudigital",
+            "albumName": "Only Just Begun",
+            "trackUri": "spotify:track:1TURPL0kG4SEOanrx37yeo"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Gangsta's Paradise",
+            "artistName": "Coolio",
+            "albumName": "Gangsta's Paradise",
+            "trackUri": "spotify:track:1DIXPcTDzTj8ZMHt3PDt8p"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Shape Of My Heart",
+            "artistName": "Sting",
+            "albumName": "Ten Summoner's Tales",
+            "trackUri": "spotify:track:6CKoWCWAqEVWVjpeoJXyNH"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Impossible",
+            "artistName": "Shontelle",
+            "albumName": "No Gravity",
+            "trackUri": "spotify:track:1T8PwF3JhIiWwBhun23RNe"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Stuck With Each Other - Main",
+            "artistName": "Shontelle",
+            "albumName": "Shontelligence",
+            "trackUri": "spotify:track:0LIeySEITbDeTE4FQPS19o"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Gal Wan More",
+            "artistName": "Elephant Man",
+            "albumName": "Gal Wan More - Single",
+            "trackUri": "spotify:track:5Gp2okNOqR8rmSB6lTAq20"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Doin' Time",
+            "artistName": "Lana Del Rey",
+            "albumName": "Norman Fucking Rockwell!",
+            "trackUri": "spotify:track:0Oqc0kKFsQ6MhFOLBNZIGX"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Угадай где я?",
+            "artistName": "Rauf & Faik",
+            "albumName": "Угадай где я?",
+            "trackUri": "spotify:track:1sZjZslKy9lRPEMRPTCr7W"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Goosebumps",
+            "artistName": "HVME",
+            "albumName": "Goosebumps",
+            "trackUri": "spotify:track:20McUFi8KCIVdNDLrkTDuZ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Castle in the Snow",
+            "artistName": "Kadebostany",
+            "albumName": "Pop Collection",
+            "trackUri": "spotify:track:6QHetp9aFO8FFzvLb5OOQT"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Beggin'",
+            "artistName": "Måneskin",
+            "albumName": "Chosen",
+            "trackUri": "spotify:track:3Wrjm47oTz2sjIgck11l5e"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Bitch, Don’t Kill My Vibe",
+            "artistName": "Kendrick Lamar",
+            "albumName": "good kid, m.A.A.d city",
+            "trackUri": "spotify:track:5h5tBFnbcVioFXiOixTn6E"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "I WANNA BE YOUR SLAVE",
+            "artistName": "Måneskin",
+            "albumName": "Teatro d'ira - Vol. I",
+            "trackUri": "spotify:track:4pt5fDVTg5GhEvEtlz9dKk"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Another Love",
+            "artistName": "Tom Odell",
+            "albumName": "Long Way Down (Deluxe)",
+            "trackUri": "spotify:track:3JvKfv6T31zO0ini8iNItO"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "...Baby One More Time",
+            "artistName": "Britney Spears",
+            "albumName": "...Baby One More Time (Digital Deluxe Version)",
+            "trackUri": "spotify:track:3MjUtNVVq3C8Fn0MP3zhXa"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Circus",
+            "artistName": "Britney Spears",
+            "albumName": "Circus (Deluxe Version)",
+            "trackUri": "spotify:track:7jk7gqyEonmVVYahZN5zhW"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Ainsi bas la vida",
+            "artistName": "Indila",
+            "albumName": "Mini World",
+            "trackUri": "spotify:track:4lsOsGMzO1yCjGVucoWOZ1"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Freed from Desire (feat. Indiiana)",
+            "artistName": "Drenchill",
+            "albumName": "Freed from Desire (feat. Indiiana)",
+            "trackUri": "spotify:track:1lr5prHQn7Q766Ix6eGRKK"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Rinse & Repeat",
+            "artistName": "Riton",
+            "albumName": "Foreign Ororo (Special Edition)",
+            "trackUri": "spotify:track:6PUqoHHVVIdcdlKaCAHt23"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Daisy",
+            "artistName": "Ashnikko",
+            "albumName": "Daisy",
+            "trackUri": "spotify:track:0AUvWawuP0ibk4SQ3sIZjk"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Dilemma",
+            "artistName": "Nelly",
+            "albumName": "Nellyville",
+            "trackUri": "spotify:track:4nthV2eZAXnt4yiJMocLkG"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Sweet Dreams (Are Made of This) - Remastered",
+            "artistName": "Eurythmics",
+            "albumName": "Sweet Dreams (Are Made Of This)",
+            "trackUri": "spotify:track:1TfqLAPs4K3s2rJMoCokcS"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "You Don't Know Me - Radio Edit",
+            "artistName": "Jax Jones",
+            "albumName": "You Don't Know Me",
+            "trackUri": "spotify:track:4WrS6vezaPwOafKJmHqMEU"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "All About That Bass",
+            "artistName": "Meghan Trainor",
+            "albumName": "Title",
+            "trackUri": "spotify:track:5jE48hhRu8E6zBDPRSkEq7"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Toxic",
+            "artistName": "Britney Spears",
+            "albumName": "In The Zone",
+            "trackUri": "spotify:track:6I9VzXrHxO9rA9A5euc8Ak"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Say My Name",
+            "artistName": "David Guetta",
+            "albumName": "7",
+            "trackUri": "spotify:track:0YammaEkYSeo9vQYZ1OwS6"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Survivor",
+            "artistName": "2WEI",
+            "albumName": "Sequels",
+            "trackUri": "spotify:track:29Y7wbrOvQlAwZQJM51ugW"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "S&M",
+            "artistName": "Rihanna",
+            "albumName": "Loud",
+            "trackUri": "spotify:track:0C4ejWmOTMv8vuYj85mf8m"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Dancin (feat. Luvli) - Krono Remix",
+            "artistName": "Aaron Smith",
+            "albumName": "Dancin (feat. Luvli)",
+            "trackUri": "spotify:track:6WkJ2OK163XXS2oARUC9JM"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Amaaaaaaaaaan",
+      "lastModifiedDate": "2022-04-11",
+      "items": [
+        {
+          "track": {
+            "trackName": "Yaş Hikayesi",
+            "artistName": "Merve Özbey",
+            "albumName": "Yaş Hikayesi",
+            "trackUri": "spotify:track:1BVr6zSSGsS1YZATbwCoox"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Topsuz Tüfeksiz",
+            "artistName": "Merve Özbey",
+            "albumName": "Yaş Hikayesi",
+            "trackUri": "spotify:track:60mb82aQ8vXwvk1vLSuJ4J"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Haberi Var Mı",
+            "artistName": "Hande Yener",
+            "albumName": "Sebastian",
+            "trackUri": "spotify:track:4F0vBFkdzu6lsHPVWpQl80"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Feveran",
+            "artistName": "Bengü",
+            "albumName": "İkinci Hal",
+            "trackUri": "spotify:track:2AgiSjj47CtcPouPxBaxHB"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Kimse Bilmesin",
+            "artistName": "Bengü",
+            "albumName": "Kimse Bilmesin",
+            "trackUri": "spotify:track:4y7Qb8dgtuORXADb1Fd2mD"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Irgalamaz Beni",
+            "artistName": "Gülşen",
+            "albumName": "Beni Durdursan Mı ?",
+            "trackUri": "spotify:track:6ASTlquNVO5Cgn15idUjnH"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Kendine Müslüman",
+            "artistName": "Gülşen",
+            "albumName": "Beni Durdursan Mı ?",
+            "trackUri": "spotify:track:1txPVpJ5DDmV8M1Yuxxgvm"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Yatcaz Kalkcaz Ordayım",
+            "artistName": "Gülşen",
+            "albumName": "Beni Durdursan Mı ?",
+            "trackUri": "spotify:track:4wSENXqkF5qz65TKdJgM2H"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Hani Bana",
+            "artistName": "Hande Yener",
+            "albumName": "Mükemmel",
+            "trackUri": "spotify:track:5K2v1JImuLCGEF6xs64QWV"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Sahte",
+            "artistName": "Hande Yener",
+            "albumName": "Sahte",
+            "trackUri": "spotify:track:2e5YNLCvklck07A0k6PRIS"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Pırlanta",
+            "artistName": "Nil Karaibrahimgil",
+            "albumName": "Tek Taşımı Kendim Aldım",
+            "trackUri": "spotify:track:1Xb5nakKpz6DqZNnV9YEos"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Bu Mudur",
+            "artistName": "Nil Karaibrahimgil",
+            "albumName": "Tek Taşımı Kendim Aldım",
+            "trackUri": "spotify:track:7j8LCk07ZZr2wKmFAHHLfB"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Bana Aşk Ver",
+            "artistName": "Aynur Aydın",
+            "albumName": "Bana Aşk Ver",
+            "trackUri": "spotify:track:0DkY1yjxsBvbGNZ0T06hMk"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Dağınık Yatak",
+            "artistName": "Ziynet Sali",
+            "albumName": "No.6",
+            "trackUri": "spotify:track:4S6psVYVrqewU0eviLxZU5"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Eğlen Güzelim",
+            "artistName": "Ajda Pekkan",
+            "albumName": "Ajda Pekkan",
+            "trackUri": "spotify:track:64dzPbchbmMzqXHNJa2n1G"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Çeyrek Gönül",
+            "artistName": "Ziynet Sali",
+            "albumName": "No.6",
+            "trackUri": "spotify:track:7nuvXyDj678rH6WM54i0OU"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Gülü Soldurmam",
+            "artistName": "Kibariye",
+            "albumName": "Gülü Soldurmam",
+            "trackUri": "spotify:track:4aFjH5DC9JXnkVr9PkrtFH"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "7/24",
+      "lastModifiedDate": "2022-04-11",
+      "items": [
+        {
+          "track": {
+            "trackName": "Araftayım",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Araftayım",
+            "trackUri": "spotify:track:61mK0IzKXlNJ5WWnTjP1IW"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Hata",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Dön Ne Olur",
+            "trackUri": "spotify:track:3UmE27b0UhAVPwvE9TS837"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Ben Olmayınca",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Şahane",
+            "trackUri": "spotify:track:0uqOmmegjZyXTNgBomh3r6"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Kaçak",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Kaçak",
+            "trackUri": "spotify:track:1kgfwukR32AaDSimDWtz6D"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Saygılarımla",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Kaçak",
+            "trackUri": "spotify:track:6CwY190Jm8MaXsxzzZeqQ0"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Ararsam Gelme",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Âşık",
+            "trackUri": "spotify:track:1BKuWxiEkKT7gKtvlLS8fY"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Bir Devir Bitti",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Araftayım",
+            "trackUri": "spotify:track:1SJkVEt0oyEFkwPqvPupZC"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Seni Seviyorum",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Ahdım Olsun",
+            "trackUri": "spotify:track:7lL7XMA0qRA4gTlVvtJzRK"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Beyaz",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Beyaz",
+            "trackUri": "spotify:track:7xx2ZYYBKaS80Kgw5TlqCj"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Ölümsüz Aşklar",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Evet",
+            "trackUri": "spotify:track:0dbWQCZY7goRmGy30szYjI"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Tükeneceğiz",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Evet",
+            "trackUri": "spotify:track:2znJCKoVcjnJVJv8tM9kKh"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Hani",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Bize De Bu Yakışır",
+            "trackUri": "spotify:track:61bGxZ3kgbB2HBbF2xeznv"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Demir Attım",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Tanrı Misafiri",
+            "trackUri": "spotify:track:4g1sEDAK74cYbJAQsd5Tzp"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Severek Öleceğim",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Beyaz",
+            "trackUri": "spotify:track:4zFH7If5WNsyICWmvUl49K"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Kim Bu Gözlerindeki Yabancı",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Âşık",
+            "trackUri": "spotify:track:2xwTCoNxzBJJlnTfRooG9g"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Cennet",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Âşık",
+            "trackUri": "spotify:track:3qbmW75HNPMRbfEEEAiJif"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Çağırın Gelsin",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Âşık",
+            "trackUri": "spotify:track:15UmkHxvInLd99LZPLM7mT"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Sevmeyeceğim",
+            "artistName": "Yıldız Tilbe",
+            "albumName": "Haberi Olsun",
+            "trackUri": "spotify:track:7eMFmjxapYmdkxeT8s6UHH"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Emi",
+            "artistName": "Yıldız Tilbe",
+            "albumName": "Yürü Anca Gidersin",
+            "trackUri": "spotify:track:4z55r3PNUzlEroiJTFF137"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Çabuk Olalım Aşkım",
+            "artistName": "Yıldız Tilbe",
+            "albumName": "Yürü Anca Gidersin",
+            "trackUri": "spotify:track:6exCes4qpJpgPtOBXC0WEx"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Severim Ama Güvenemem",
+            "artistName": "Yıldız Tilbe",
+            "albumName": "Şivesi Sensin Aşkın",
+            "trackUri": "spotify:track:5u2UbsjfbsXb0CMxCtWB2f"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Anma Arkadaş",
+            "artistName": "Yıldız Tilbe",
+            "albumName": "Aşk İnsanı Değiştirir, Vol. 1",
+            "trackUri": "spotify:track:7H57QvHlQq1OLln6jKzdJS"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Sen de Ağla",
+            "artistName": "Hakan Altun",
+            "albumName": "Hediye",
+            "trackUri": "spotify:track:4Cx0ryQiY64TXyNWs4yAW2"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Hani Bekleyecektin",
+            "artistName": "Hakan Altun",
+            "albumName": "Hakan",
+            "trackUri": "spotify:track:1IUXGnPgU0un50ZfupXLJL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Ağlamak Yok Yüreğim",
+            "artistName": "Hakan Altun",
+            "albumName": "Ağlamak Yok Yüreğim",
+            "trackUri": "spotify:track:0PXyajDPm37BR3FKvLJvKl"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Küllenen Aşk",
+            "artistName": "Cengiz Kurtoğlu",
+            "albumName": "Unutulan...",
+            "trackUri": "spotify:track:6MOsPYBglj51uRtpU2XxUw"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-11"
+        },
+        {
+          "track": {
+            "trackName": "Büyük İnsan",
+            "artistName": "İntizar",
+            "albumName": "Ömrüm Senindir",
+            "trackUri": "spotify:track:2iAxmSlx8vpsBXlYNtT6iY"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-14"
+        },
+        {
+          "track": {
+            "trackName": "İhtimal",
+            "artistName": "Linet",
+            "albumName": "Bilir Misin?",
+            "trackUri": "spotify:track:0cM57P4gjDVzKEcB5xSxPC"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Aman Aman",
+            "artistName": "Linet",
+            "albumName": "Yorum Farkı, Vol. 2",
+            "trackUri": "spotify:track:0sugJrVnZax81Um5f4QpoL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Ağlamayacağım",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Beyaz",
+            "trackUri": "spotify:track:1StvRDaFMEJXg3bCYjeE0d"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Ummadığım Anda",
+            "artistName": "Yıldız Tilbe",
+            "albumName": "Haberi Olsun",
+            "trackUri": "spotify:track:7CeQ3vXGov2psC261geVn2"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Âşık",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Âşık",
+            "trackUri": "spotify:track:4KA9dY8U5Ih5HTH2pq45bp"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Gidiniz",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Âşık",
+            "trackUri": "spotify:track:2woXLCAS5Aihb4IepJaF8v"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Dibe Vurgun",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Âşık",
+            "trackUri": "spotify:track:64iVw6A6JV6kSZfLBZHmbu"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-14"
+        },
+        {
+          "track": {
+            "trackName": "Ama Evlisin",
+            "artistName": "Yıldız Tilbe",
+            "albumName": "Yürü Anca Gidersin",
+            "trackUri": "spotify:track:14g5Ho5sAn0FnnO0p8HCX5"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-15"
+        },
+        {
+          "track": {
+            "trackName": "Hastayım Sana",
+            "artistName": "Yıldız Tilbe",
+            "albumName": "Hastayım Sana",
+            "trackUri": "spotify:track:31qcY4uh85cr7qlgQydrNP"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-15"
+        },
+        {
+          "track": {
+            "trackName": "Seve Seve",
+            "artistName": "Yıldız Tilbe",
+            "albumName": "Şivesi Sensin Aşkın",
+            "trackUri": "spotify:track:2B8mceCX5ArdYzE3ZCtTdN"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-15"
+        },
+        {
+          "track": {
+            "trackName": "Söyleyin",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Bize De Bu Yakışır",
+            "trackUri": "spotify:track:1VHaUeEMpgYRxlasP08GMg"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-15"
+        },
+        {
+          "track": {
+            "trackName": "Buz",
+            "artistName": "Kibariye",
+            "albumName": "Dört Mevsim",
+            "trackUri": "spotify:track:5bHzv7vwApROsBQFEqkZOP"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-15"
+        },
+        {
+          "track": {
+            "trackName": "İstanbul Olmaz Olsun",
+            "artistName": "Hakan Altun",
+            "albumName": "Aklın Bende Kalmasın",
+            "trackUri": "spotify:track:3q0Euy1cVIj8OsTi4BVORL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-15"
+        },
+        {
+          "track": {
+            "trackName": "Sana Kalbim Geçti",
+            "artistName": "Yıldız Tilbe",
+            "albumName": "Sana Kalbim Geçti",
+            "trackUri": "spotify:track:6Q905YHOLLABRGQ4AemgDc"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-15"
+        },
+        {
+          "track": {
+            "trackName": "Seninle Çok İşim Var",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Bize De Bu Yakışır",
+            "trackUri": "spotify:track:2i14JC870P3auSnkFdyl2F"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2021-12-18"
+        },
+        {
+          "track": {
+            "trackName": "Sen Affetsen",
+            "artistName": "Bergen",
+            "albumName": "Acıların Kadını",
+            "trackUri": "spotify:track:0nudrF7WUr6R5OEVffxuky"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Aman Aman",
+            "artistName": "Linet",
+            "albumName": "Yorum Farkı, Vol. 2",
+            "trackUri": "spotify:track:6lQLnOvZ5yqUVK1zFq6yRQ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Bu Dünyada Üç Şey Vardır",
+            "artistName": "İbrahim Tatlıses",
+            "albumName": "Sizler Için",
+            "trackUri": "spotify:track:2AYAUZYT0q1psYmOJWoW4K"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Padişah",
+            "artistName": "Sibel Can",
+            "albumName": "Bu Devirde",
+            "trackUri": "spotify:track:7859Rvo6wXeImidBRL2dUZ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Saklı Düşler",
+            "artistName": "Cengiz Kurtoğlu",
+            "albumName": "Saklı Düşler",
+            "trackUri": "spotify:track:28y9MlWOi9lKqVxKGXlKCz"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Kül",
+            "artistName": "Cem Adrian",
+            "albumName": "Kül",
+            "trackUri": "spotify:track:5NPg92vbjaGk4q9mh7MMEM"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Aşk Kitabı - Saygı Albümü: Bergen",
+            "artistName": "Bade Derinöz",
+            "albumName": "Saygı Albümü: Bergen",
+            "trackUri": "spotify:track:26uZorUHZOzhdpSA03iVmy"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Nazende Sevgilim",
+            "artistName": "Figen Genç",
+            "albumName": "Nazende Sevgilim",
+            "trackUri": "spotify:track:2kXTbr9J7u0IIA14xBu9Eq"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Bir Kar Tanesi",
+            "artistName": "Cem Adrian",
+            "albumName": "Bir Kar Tanesi",
+            "trackUri": "spotify:track:2htKJF7BcA2lftgJxQPQE7"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Dil Yarası",
+            "artistName": "Orhan Gencebay",
+            "albumName": "Orhan Gencebay Klasikleri Sizin Seçtikleriniz 66'dan 1993'e",
+            "trackUri": "spotify:track:5Imv2wXWq6Dft4nJNiEwi5"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Karadır Kaşların",
+            "artistName": "Hirai Zerdüş",
+            "albumName": "Karadır Kaşların",
+            "trackUri": "spotify:track:4g0M2uBZ06ZOjIbckqkqfs"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Papatya",
+            "artistName": "Hirai Zerdüş",
+            "albumName": "Papatya",
+            "trackUri": "spotify:track:7KJAGp6bvOMsz0qF8kTaLt"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Yıllarım Gitti",
+            "artistName": "Ferhat Göçer",
+            "albumName": "Düştüm Ben Yollara",
+            "trackUri": "spotify:track:2Q0NpaR4NRnjPa65XZIZmx"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Ellerimde Çiçekler",
+            "artistName": "İlhan Şeşen",
+            "albumName": "Kurtuluş Son Durak (Original Motion Picture Soundtrack)",
+            "trackUri": "spotify:track:21TEY3OlDbNyF7E7yIKIvt"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Şu Dağlarda Kar Olsaydım",
+            "artistName": "Ferhat Polat",
+            "albumName": "Şu Dağlarda Kar Olsaydım",
+            "trackUri": "spotify:track:5pN4CfuWL63ABQ4JgfeGUW"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Bir Günah Gibi",
+            "artistName": "Ajda Pekkan",
+            "albumName": "Süperstar 83",
+            "trackUri": "spotify:track:4jc4VFLpJySWCFHisCuzN9"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Söyle Canım",
+            "artistName": "Erol Evgin",
+            "albumName": "Söyle Canım / Hep Böyle Kal",
+            "trackUri": "spotify:track:3Mw51BadwqROvIUR5TGAO3"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Beni Kovma Kalbinden",
+            "artistName": "Yıldız Usmonova",
+            "albumName": "Dünya",
+            "trackUri": "spotify:track:3OLvpbisE8p1dWdmDcRSfr"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Cesaretin Var mı Aşka",
+            "artistName": "Gülay Sezer",
+            "albumName": "Adı Yok",
+            "trackUri": "spotify:track:1YuJ5pSMqUFwSYcB6T41Ux"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Kum Gibi",
+            "artistName": "Ahmet Kaya",
+            "albumName": "Şarkılarım Dağlara",
+            "trackUri": "spotify:track:1vmzfiQsd8PHgt8Kgp7TgR"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Ruhumda Sızı",
+            "artistName": "Ender Balkır",
+            "albumName": "Ruhumda Sızı",
+            "trackUri": "spotify:track:0gnT45mTwbHzGAXrAX5rtC"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Kalakaldım",
+            "artistName": "Serkan Kaya",
+            "albumName": "Gönül Bahçem",
+            "trackUri": "spotify:track:60Hwol7I5JfeX7x8Pffe0d"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Gönül Dağı",
+            "artistName": "Neşet Ertaş",
+            "albumName": "Gönül Dağı",
+            "trackUri": "spotify:track:7yWqRsRXU7OAL0KMo8Wy9S"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "İllede roman olsun",
+            "artistName": "Kibariye",
+            "albumName": "Yeniden",
+            "trackUri": "spotify:track:07cyVySs6ORmwsxu3gv6kc"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Kafam Almıyor Vedanı",
+            "artistName": "Ankaralı Namık",
+            "albumName": "Oğlumun Tabancası Tak Tak Eder Amcası",
+            "trackUri": "spotify:track:4OJO22YETTVDLm94DH6zqZ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Nikah Masası",
+            "artistName": "Ümit Besen",
+            "albumName": "Nostalji",
+            "trackUri": "spotify:track:3ptSYzMMPk8kRxCfxha7dQ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Dokunma",
+            "artistName": "Seksendört",
+            "albumName": "Orhan Gencebay ile Bir Ömür, Vol.2",
+            "trackUri": "spotify:track:19To9JYwjSWCKlDCZj1N0P"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Seninle Olmak Varya",
+            "artistName": "Bayhan",
+            "albumName": "Seninle Olmak Varya",
+            "trackUri": "spotify:track:1YkDb6k6lem5K7c2j2rQpq"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Her Sevda Bir Ölümmüş",
+            "artistName": "Hakan Altun",
+            "albumName": "Ağlamak Yok Yüreğim",
+            "trackUri": "spotify:track:1lx6SxfJzXjIWvoF0zySuK"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Gidemem",
+            "artistName": "Kibariye",
+            "albumName": "Anlayamazsın",
+            "trackUri": "spotify:track:3dAd9ua1Qf7AVlsgnnZn6F"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Herşeyim Oldun",
+            "artistName": "Güllü",
+            "albumName": "Yalan Sevgiler",
+            "trackUri": "spotify:track:6I9yI70lWJS28G8dJWzHPn"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Çok Mu Gördünüz",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Ben Daha Büyümedim",
+            "trackUri": "spotify:track:2sNpfS1UQPiRs2zz8k8bUs"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Deli Gibi Yüreğime Zorsun (Akustik Versiyon)",
+            "artistName": "Havva Öğüt",
+            "albumName": "Deli Gibi Yüreğime Zorsun (Akustik Versiyon)",
+            "trackUri": "spotify:track:15nNhaphP9aUFrnOHI9VqV"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Kullar Affetmez",
+            "artistName": "Bergen",
+            "albumName": "Yıllar Affetmez",
+            "trackUri": "spotify:track:2w2Bdx9KyMdNm0msJaHqWn"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Seninle Çok İşim Var",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Bize De Bu Yakışır",
+            "trackUri": "spotify:track:5YBvfgYvyEdaKYjcr4VpOb"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "İnsan Dertli Olunca",
+            "artistName": "Bergen",
+            "albumName": "Yıllar Affetmez",
+            "trackUri": "spotify:track:7oPVCLLZYpU52IUKQ3hRc1"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Cumartesi",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Beyaz",
+            "trackUri": "spotify:track:6cz6MPQ8Mo8OA87xB5ii5r"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Saygımdan",
+            "artistName": "Bengü",
+            "albumName": "İkinci Hal",
+            "trackUri": "spotify:track:1ZheQVgyRUf1u6Os40ySki"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Mektup",
+            "artistName": "Apolas Lermi",
+            "albumName": "Kalandar",
+            "trackUri": "spotify:track:1kKTKiQmT0gJfOEpROjK8A"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Şu Dağlarda Kar Olsaydım",
+            "artistName": "Ahmet Aslan",
+            "albumName": "Şu Dağlarda Kar Olsaydım",
+            "trackUri": "spotify:track:0yAwtcAoGLBV6NmjIS8LAa"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Al Ömrümü",
+            "artistName": "Kıvırcık Ali Özütemiz",
+            "albumName": "Onbir Bir İkibinonbir Veda",
+            "trackUri": "spotify:track:2a8VBxpPtFdzWrviJefHq2"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Giresun'un İçinde",
+            "artistName": "Levent Güneş",
+            "albumName": "Eşkiya Dünyaya Hükümdar Olmaz (Orijinal Dizi Müzikleri)",
+            "trackUri": "spotify:track:2jx5Trmai4cnhuOznzoGSd"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Oy Beni Vurun Vurun",
+            "artistName": "Levent Güneş",
+            "albumName": "Eşkiya Dünyaya Hükümdar Olmaz (Orijinal Dizi Müzikleri)",
+            "trackUri": "spotify:track:18Bosm0ALWtvjZwXdh2Aap"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Nerdeydin",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Araftayım",
+            "trackUri": "spotify:track:0A4hIlp5ezjDszogFjlY0n"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Adaletsiz Seçim",
+            "artistName": "Deniz Seki",
+            "albumName": "Sahici",
+            "trackUri": "spotify:track:6iVUUdlKrs3OWF4tSwIXc7"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Şivesi Sensin Aşkın",
+            "artistName": "Yıldız Tilbe",
+            "albumName": "Şivesi Sensin Aşkın",
+            "trackUri": "spotify:track:2Ar5dUL2uyebmIuM0qDPHW"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Seni Severdim",
+            "artistName": "Yıldız Usmonova",
+            "albumName": "Dünya",
+            "trackUri": "spotify:track:4wafsaGv4ofwEBmDyp4qsA"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Kalmam",
+            "artistName": "Ebru Yaşar",
+            "albumName": "Gel De Sevme",
+            "trackUri": "spotify:track:7yHBYNTcnzwSnP1l8CXo8g"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Esmer Günler",
+            "artistName": "Nilüfer",
+            "albumName": "Esmer Günler",
+            "trackUri": "spotify:track:27pE3JVos4Fi4KIyfvjJm4"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Yalan",
+            "artistName": "Candan Erçetin",
+            "albumName": "Çapkın",
+            "trackUri": "spotify:track:3v92or4TDy3MyVjRGlhEwN"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Bir Ben Bir Allah Biliyor",
+            "artistName": "Bülent Ersoy",
+            "albumName": "Aşktan Sabıkalı",
+            "trackUri": "spotify:track:5DRB74GVIfuwUslADe9dBk"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-19"
+        },
+        {
+          "track": {
+            "trackName": "Gülümse Kaderine",
+            "artistName": "Kibariye",
+            "albumName": "Gülümse Kaderine",
+            "trackUri": "spotify:track:0ff9fJDuUy7JPScvT4yFrL"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-20"
+        },
+        {
+          "track": {
+            "trackName": "Aşk Laftan Anlamazki",
+            "artistName": "Yıldız Tilbe",
+            "albumName": "Haberi Olsun",
+            "trackUri": "spotify:track:6ISpHcsG1LZMI2EyvzgW5P"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-20"
+        },
+        {
+          "track": {
+            "trackName": "Yalan",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Dön Ne Olur",
+            "trackUri": "spotify:track:2hVQklogFSN1cqj4odYUNN"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-20"
+        },
+        {
+          "track": {
+            "trackName": "Gönül Yarası",
+            "artistName": "Hakan Altun",
+            "albumName": "Ağlamak Yok Yüreğim",
+            "trackUri": "spotify:track:2kzWcD9UTeSONKXKoUAivM"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-20"
+        },
+        {
+          "track": {
+            "trackName": "Dayan Yüreğim",
+            "artistName": "Yıldız Tilbe",
+            "albumName": "Aşkperest",
+            "trackUri": "spotify:track:3JM7QBqJ5ENGLFbit7IqIX"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-20"
+        },
+        {
+          "track": {
+            "trackName": "Konuşsana Bir Tanem",
+            "artistName": "Kibariye",
+            "albumName": "Dört Mevsim",
+            "trackUri": "spotify:track:38V1A5LJuBrYUDNfRQydg9"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-20"
+        },
+        {
+          "track": {
+            "trackName": "Bir Kulunu Çok Sevdim",
+            "artistName": "Funda Arar",
+            "albumName": "Arabesk",
+            "trackUri": "spotify:track:6AvAJba6sOVDc1xvtaPpwJ"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-03-22"
+        },
+        {
+          "track": {
+            "trackName": "Annem",
+            "artistName": "Kibariye",
+            "albumName": "Yeniden",
+            "trackUri": "spotify:track:085QBSxqT7jxNDuHlK5kuF"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-02"
+        },
+        {
+          "track": {
+            "trackName": "Gülü Soldurmam",
+            "artistName": "Kibariye",
+            "albumName": "Gülü Soldurmam",
+            "trackUri": "spotify:track:4aFjH5DC9JXnkVr9PkrtFH"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Ah İstanbul",
+            "artistName": "Kibariye",
+            "albumName": "Gülümse Kaderine",
+            "trackUri": "spotify:track:7D5xqA9MjHXqbtc3TifBGt"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Yanayım",
+            "artistName": "Kibariye",
+            "albumName": "Dört Mevsim",
+            "trackUri": "spotify:track:4IMkJXVOsMSKXfYOSK6FVw"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Dün Gece Resmini Öptüm de Yattım",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Ebru Gündeş Söylüyor 1",
+            "trackUri": "spotify:track:3fVw9kRaP5T40WLwW6GK4c"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Hayat",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Ebru Gündeş Söylüyor 1",
+            "trackUri": "spotify:track:3esCPf65Ob5an7haks3nxv"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Sen Gençliğimin Katilisin",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Ebru Gündeş Söylüyor 1",
+            "trackUri": "spotify:track:1TZiByXPdY9cziiNV5OoKC"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Aldırma Deli Gönlüm",
+            "artistName": "Ebru Gündeş",
+            "albumName": "Beyaz",
+            "trackUri": "spotify:track:3h0D8syG03LNWEyOpiLNmR"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        },
+        {
+          "track": {
+            "trackName": "Yıllar Affetmez - Saygı Albümü: Bergen",
+            "artistName": "Melek Mosso",
+            "albumName": "Yıllar Affetmez",
+            "trackUri": "spotify:track:6JDP3yy9Ksoq9c0jiqMyvD"
+          },
+          "episode": null,
+          "localTrack": null,
+          "addedDate": "2022-04-11"
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
